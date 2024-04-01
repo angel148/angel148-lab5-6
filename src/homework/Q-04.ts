@@ -53,6 +53,8 @@
     return multiplicationResult;
   }
 
+    console.log(calculateOperation(12, 28, 333));
+
   // EX - 1
   // Usando la función calcularOperacion
   function calculateOperation1(a: number, b: number, c: number): number {
@@ -86,5 +88,10 @@
     //...código para validar aquí
     return false;
   }
+
+
+
+
+
 
 })();
